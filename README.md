@@ -1,4 +1,4 @@
-# RecipeFinder 
+# RecipeFinder - ImersaoDev com Google Gemini
 
 ## Descrição
 RecipeFinder é um aplicativo web simples que permite aos usuários pesquisarem por receitas de forma rápida e eficiente. A aplicação utiliza uma interface intuitiva e uma base de dados de receitas para fornecer resultados relevantes.
